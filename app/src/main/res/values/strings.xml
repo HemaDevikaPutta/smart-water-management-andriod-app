@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SmartWaterManagement</string>
+    <string name="title_activity_sign_up_screen">SignUpScreen</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_current_water_level">CurrentWaterLevelActivity</string>
+    <string name="title_activity_curent_water_level">CurentWaterLevelActivity</string>
+    <string name="title_activity_current_temperature">CurrentTemperatureActivity</string>
+    <string name="title_activity_current_humidity">CurrentHumidityActivity</string>
+    <string name="title_activity_leakage">LeakageActivity</string>
+    <string name="title_activity_get_all_water_level">GetAllWaterLevelActivity</string>
+    <string name="ip_address">http://192.168.1.72:8080</string>
+</resources>
